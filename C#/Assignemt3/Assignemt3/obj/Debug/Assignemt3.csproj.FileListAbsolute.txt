@@ -1,0 +1,8 @@
+C:\dotnet Traning\C#\Assignemt3\Assignemt3\bin\Debug\Assignemt3.exe.config
+C:\dotnet Traning\C#\Assignemt3\Assignemt3\bin\Debug\Assignemt3.exe
+C:\dotnet Traning\C#\Assignemt3\Assignemt3\bin\Debug\Assignemt3.pdb
+C:\dotnet Traning\C#\Assignemt3\Assignemt3\obj\Debug\Assignemt3.csproj.AssemblyReference.cache
+C:\dotnet Traning\C#\Assignemt3\Assignemt3\obj\Debug\Assignemt3.csproj.SuggestedBindingRedirects.cache
+C:\dotnet Traning\C#\Assignemt3\Assignemt3\obj\Debug\Assignemt3.csproj.CoreCompileInputs.cache
+C:\dotnet Traning\C#\Assignemt3\Assignemt3\obj\Debug\Assignemt3.exe
+C:\dotnet Traning\C#\Assignemt3\Assignemt3\obj\Debug\Assignemt3.pdb
