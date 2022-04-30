@@ -1,0 +1,8 @@
+C:\dotnet Traning\C#\Assignmenrt5\Assignmenrt5\bin\Debug\Assignmenrt5.exe.config
+C:\dotnet Traning\C#\Assignmenrt5\Assignmenrt5\bin\Debug\Assignmenrt5.exe
+C:\dotnet Traning\C#\Assignmenrt5\Assignmenrt5\bin\Debug\Assignmenrt5.pdb
+C:\dotnet Traning\C#\Assignmenrt5\Assignmenrt5\obj\Debug\Assignmenrt5.csproj.AssemblyReference.cache
+C:\dotnet Traning\C#\Assignmenrt5\Assignmenrt5\obj\Debug\Assignmenrt5.csproj.SuggestedBindingRedirects.cache
+C:\dotnet Traning\C#\Assignmenrt5\Assignmenrt5\obj\Debug\Assignmenrt5.csproj.CoreCompileInputs.cache
+C:\dotnet Traning\C#\Assignmenrt5\Assignmenrt5\obj\Debug\Assignmenrt5.exe
+C:\dotnet Traning\C#\Assignmenrt5\Assignmenrt5\obj\Debug\Assignmenrt5.pdb
