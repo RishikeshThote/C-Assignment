@@ -1,0 +1,8 @@
+C:\dotnet Traning\C#\Assignment6\books\books\bin\Debug\books.exe.config
+C:\dotnet Traning\C#\Assignment6\books\books\bin\Debug\books.exe
+C:\dotnet Traning\C#\Assignment6\books\books\bin\Debug\books.pdb
+C:\dotnet Traning\C#\Assignment6\books\books\obj\Debug\books.csproj.AssemblyReference.cache
+C:\dotnet Traning\C#\Assignment6\books\books\obj\Debug\books.csproj.SuggestedBindingRedirects.cache
+C:\dotnet Traning\C#\Assignment6\books\books\obj\Debug\books.csproj.CoreCompileInputs.cache
+C:\dotnet Traning\C#\Assignment6\books\books\obj\Debug\books.exe
+C:\dotnet Traning\C#\Assignment6\books\books\obj\Debug\books.pdb
