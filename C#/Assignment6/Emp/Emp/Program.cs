@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Emp 
+
+namespace Emp
 {
     internal class Program
     {
@@ -77,7 +78,7 @@ namespace Emp
                 Console.WriteLine(item2);
             }
 
-            Console.WriteLine("\nthe employee first name whose joining date is before 1/1/2015");
+            Console.WriteLine("\nthe employee first name whose joining date is lessthan 1/1/2015");
             var query3 = from Employee in emplist
                          where Employee.doj < DateTime.Parse("1/1/2015")
                          select Employee.F_name;
