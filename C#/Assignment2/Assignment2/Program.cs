@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Assignment2
 
@@ -13,16 +10,16 @@ namespace Assignment2
         public static void Main()
         {
 
-          
 
 
-            int[] marks= { 10, 15, 30, 60, 120 };
+
+            int[] marks = { 10, 15, 30, 60, 120 };
             int n = 0;
-            foreach(int i in marks) 
+            foreach (int i in marks)
             {
                 n += i;
             }
-            Console.WriteLine("Average of marks is {0}",n/marks.Length);
+            Console.WriteLine("Average of marks is {0}", n / marks.Length);
             Console.WriteLine(marks.Min());
             Console.WriteLine(marks.Max());
             Console.WriteLine("PROGRAMME 1 IS complete");
@@ -30,29 +27,29 @@ namespace Assignment2
 
             //ACCEPT ARRAY PROGRAMME 
 
-            int[] numbers = new int [8];
-            int sum=0;
+            int[] numbers = new int[8];
+            int sum = 0;
             Console.WriteLine("Enter a numbers of an array");
             for (int i = 0; i < numbers.Length; i++)
-            { 
+            {
                 numbers[i] = Convert.ToInt32(Console.ReadLine());
             }
-            foreach(int i in numbers)
+            foreach (int i in numbers)
             {
                 sum += i;
 
 
             }
-            Console.WriteLine("Total marks is {0}" , sum);
-            Console.WriteLine( "Average of given numbers {0}",sum/5);
-            Console.WriteLine("Maximum  NUmmber of marks is {0}",numbers.Max());
-            Console.WriteLine("Minimum number of marks is {0}",numbers.Min());
+            Console.WriteLine("Total marks is {0}", sum);
+            Console.WriteLine("Average of given numbers {0}", sum / 5);
+            Console.WriteLine("Maximum  NUmmber of marks is {0}", numbers.Max());
+            Console.WriteLine("Minimum number of marks is {0}", numbers.Min());
             Array.Sort(numbers);
-           
+
             Console.WriteLine("Ascending order of marks is ");
             foreach (int i in numbers)
-            { 
-                Console.Write(i+" ");
+            {
+                Console.Write(i + " ");
             }
             Array.Reverse(numbers);
             Console.WriteLine(" ");
@@ -78,7 +75,7 @@ namespace Assignment2
             String s2 = Console.ReadLine();
             char[] chars = s2.ToCharArray();
             string s3 = "";
-            for(int i=s2.Length-1;i>=0;i--)
+            for (int i = s2.Length - 1; i >= 0; i--)
             {
                 s3 += chars[i];
             }
@@ -88,9 +85,9 @@ namespace Assignment2
             //  CHECKING THE TWO STRINGS PROGRAMME 
 
             Console.WriteLine(" ENTER A WWORD 1");
-            string word1= Console.ReadLine();
+            string word1 = Console.ReadLine();
             Console.WriteLine(" ENTER A WWORD 2");
-            string word2= Console.ReadLine();
+            string word2 = Console.ReadLine();
             char[] ch1 = word1.ToCharArray();
             char[] ch2 = word2.ToCharArray();
             int temp = 0;
@@ -98,7 +95,7 @@ namespace Assignment2
             {
                 if (ch1[i] != ch2[i])
                 {
-                    temp =1;
+                    temp = 1;
                 }
             }
             if (temp != 0)
@@ -118,18 +115,18 @@ namespace Assignment2
             string s5 = Console.ReadLine();
             char[] cha3 = s5.ToCharArray();
             int temp1 = 0;
-            int j = cha3.Length-1;
-            for(int i = 0;i<cha3.Length-1/2;i++)
+            int j = cha3.Length - 1;
+            for (int i = 0; i < cha3.Length - 1 / 2; i++)
             {
 
                 if (cha3[i] != cha3[j])
                 {
-                   temp1 = 1;
-                    
+                    temp1 = 1;
+
                 }
                 j--;
             }
-            if(temp1 != 0)
+            if (temp1 != 0)
             {
                 Console.WriteLine("its not a palindrome");
             }
