@@ -1,6 +1,0 @@
-C:\dotnet Traning\coadtest3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\dotnet Traning\coadtest3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\dotnet Traning\coadtest3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\dotnet Traning\coadtest3\ConsoleApp1\ConsoleApp1\obj\Debug\Coadtest3.csproj.CoreCompileInputs.cache
-C:\dotnet Traning\coadtest3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\dotnet Traning\coadtest3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
