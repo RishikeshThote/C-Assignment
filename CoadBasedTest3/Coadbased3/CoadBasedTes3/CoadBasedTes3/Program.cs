@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace CoadBasedTest3
+namespace CoadBasedTes3
 {
     class Program
     {
@@ -53,17 +53,17 @@ namespace CoadBasedTest3
                     Console.WriteLine("No Row Effected");
                 }
             }
-                         catch (SqlException ex)
+            catch (SqlException ex)
             {
-                                   Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.Message);
             }
         }
-                         public static void DisplayAllEmployee()
+        public static void DisplayAllEmployee()
         {
-                       con = getconnection();
+            con = getconnection();
 
 
-                    cmd = new SqlCommand("select * from Code_Employee", con);
+            cmd = new SqlCommand("select * from Code_Employee", con);
 
 
 
