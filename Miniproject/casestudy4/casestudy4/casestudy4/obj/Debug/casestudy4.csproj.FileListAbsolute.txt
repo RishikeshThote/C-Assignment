@@ -1,0 +1,7 @@
+C:\dotnet Traning\Miniproject\casestudy4\casestudy4\casestudy4\bin\Debug\casestudy4.exe.config
+C:\dotnet Traning\Miniproject\casestudy4\casestudy4\casestudy4\bin\Debug\casestudy4.exe
+C:\dotnet Traning\Miniproject\casestudy4\casestudy4\casestudy4\bin\Debug\casestudy4.pdb
+C:\dotnet Traning\Miniproject\casestudy4\casestudy4\casestudy4\obj\Debug\casestudy4.csproj.AssemblyReference.cache
+C:\dotnet Traning\Miniproject\casestudy4\casestudy4\casestudy4\obj\Debug\casestudy4.csproj.CoreCompileInputs.cache
+C:\dotnet Traning\Miniproject\casestudy4\casestudy4\casestudy4\obj\Debug\casestudy4.exe
+C:\dotnet Traning\Miniproject\casestudy4\casestudy4\casestudy4\obj\Debug\casestudy4.pdb
