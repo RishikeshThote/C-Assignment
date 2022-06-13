@@ -1,6 +1,17 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Miniproject",
+    "\\Miniproject\\casestudy1",
+    "\\Miniproject\\casestudy1\\casestudy1",
+    "\\Miniproject\\casestudy1\\casestudy1\\casestudy1",
+    "\\Miniproject\\casestudy2",
+    "\\Miniproject\\casestudy2\\ConsoleApp1",
+    "\\Miniproject\\casestudy2\\ConsoleApp1\\ConsoleApp1",
+    "\\Miniproject\\casestudy3",
+    "\\Miniproject\\casestudy3\\casestudy3",
+    "\\Miniproject\\casestudy3\\casestudy3\\casestudy3"
   ],
+  "SelectedNode": "\\Miniproject\\casestudy3\\casestudy3\\casestudy3\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\casestudy1",
+    "\\casestudy1\\casestudy1",
+    "\\casestudy2",
+    "\\casestudy3",
+    "\\casestudy4",
+    "\\casestudy4\\casestudy4",
+    "\\casestudy4\\casestudy4\\casestudy4"
+  ],
+  "SelectedNode": "\\casestudy4\\casestudy4\\casestudy4\\Studentinterface.cs",
+  "PreviewInSolutionExplorer": false
+}
